@@ -1,6 +1,6 @@
 
 
-# simple-weather-website
+#WebWeather
 
 ## About
  - This is a simple weather website.
@@ -8,7 +8,7 @@
  -Aneesha Manke
  
  ## To see the project
-[Weather website](https://simple-weather-website.netlify.app/)
+[WebWeather](https://simple-weather-website.netlify.app/)
 
 
 
